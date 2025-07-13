@@ -32,3 +32,19 @@ This exercise helped me understand how React manages form inputs and real-time u
 
 -------------------------------------------------------------------------------------------------
 
+Build a list component to display a list of items
+
+📅 Day 4: Rendering Lists using map() in React 📝
+On Day 4, I explored how to dynamically render lists in React using the JavaScript map() method.
+
+✅ Created an array of items
+✅ Used map() to loop through the array
+✅ Rendered each item inside an unordered list (<ul>)
+✅ Applied the key prop to each list item for optimal rendering performance
+
+This helped me understand how to display arrays in JSX and the importance of unique keys in list rendering.
+
+-------------------------------------------------------------------------------------------------
+
+Implement Basic Toggle switch components
+
