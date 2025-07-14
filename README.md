@@ -44,7 +44,30 @@ On Day 4, I explored how to dynamically render lists in React using the JavaScri
 
 This helped me understand how to display arrays in JSX and the importance of unique keys in list rendering.
 
--------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
-Implement Basic Toggle switch components
+📅 Day 5: Toggle Functionality using useState ✅❌
+On Day 5, I implemented a simple toggle switch using the useState hook in React.
+
+✅ Created a checkbox input
+✅ Used a boolean state to track toggle ON/OFF
+✅ Handled state updates with an onChange event
+✅ Displayed the toggle status dynamically as "ON" or "OFF"
+
+This exercise helped reinforce how to work with boolean states and user-driven interactions in a React component.
+
+---------------------------------------------------------------------------------------------------
+
+📅 Day 6: Fetching Data with useEffect & fetch API 🌐
+On Day 6, I learned how to fetch data from an external API and render it in a React component using the useEffect hook.
+
+✅ Used useEffect to trigger data fetching on component mount
+✅ Made a GET request using the native fetch API
+✅ Stored the response data using useState
+✅ Displayed a loading state while the data was being fetched
+✅ Rendered the fetched data dynamically
+
+This exercise helped me understand the basics of side effects in React and how to handle asynchronous operations in functional components.
+
+----------------------------------------------------------------------------------------------------
 

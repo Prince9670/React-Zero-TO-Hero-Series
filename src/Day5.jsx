@@ -1,20 +1,20 @@
-import { useState } from 'react'
+import { useState } from 'react';
 
 const Day5 = () => {
+  const [Toggle, setToggle] = useState(false);
 
-    const [Toggle, setToggle] = useState(false);
+  const handleToggle = () => {
+    setToggle(!Toggle);
+  };
 
-    const handleToggle = () => {
-      setToggle(!Toggle);
-    }
   return (
     <div>
       <label>
-        <input type='checkbox' checked={Toggle} onChange={handleToggle}/>
+        <input type='checkbox' checked={Toggle} onChange={handleToggle} />
       </label>
-      <p>{setToggle ? "ON":"OF"}</p>
+      <p>{Toggle ? "ON" : "OFF"}</p>
     </div>
-  )
-}
+  );
+};
 
-export default Day5
+export default Day5;
