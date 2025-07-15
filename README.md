@@ -71,3 +71,14 @@ This exercise helped me understand the basics of side effects in React and how t
 
 ----------------------------------------------------------------------------------------------------
 
+📅 Day 7: Countdown Timer using useEffect & setInterval ⏳
+On Day 7, I built a countdown timer using React hooks to better understand how side effects and intervals work in functional components.
+
+✅ Initialized a state variable to hold the countdown time
+✅ Used useEffect to start a setInterval that decreases time every second
+✅ Used clearInterval in the cleanup function to avoid memory leaks
+✅ Displayed the remaining time dynamically in the UI
+
+This practice improved my understanding of side effects, timers, and the importance of cleanup in React's useEffect.
+
+----------------------------------------------------------------------------------------------------
