@@ -82,3 +82,15 @@ On Day 7, I built a countdown timer using React hooks to better understand how s
 This practice improved my understanding of side effects, timers, and the importance of cleanup in React's useEffect.
 
 ----------------------------------------------------------------------------------------------------
+
+📅 Day 8: Dynamic Styling with useState 🎨
+On Day 8, I explored how to use React state to dynamically change styles based on user interaction.
+
+✅ Initialized a state to store background color
+✅ Used onClick to toggle between 'white' and 'black'
+✅ Applied dynamic inline styling using the state
+✅ Practiced interactive UI behavior using minimal code
+
+This small project helped reinforce how React state can control not just data — but also visual changes in the UI.
+
+------------------------------------------------------------------------------------------------------
