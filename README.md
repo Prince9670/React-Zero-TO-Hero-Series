@@ -94,3 +94,4 @@ On Day 8, I explored how to use React state to dynamically change styles based o
 This small project helped reinforce how React state can control not just data — but also visual changes in the UI.
 
 ------------------------------------------------------------------------------------------------------
+
